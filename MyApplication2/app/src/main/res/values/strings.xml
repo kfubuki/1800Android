@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">小雞雞</string>
+    <string name="btnText">Stat</string>
+    <string name="increase">增加計數</string>
+    <string name="clean">清零</string>
+</resources>
