@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UItest03082023</string>
+    <string name="hintText">請輸入字串</string>
+    <string name="send">送出</string>
+</resources>
