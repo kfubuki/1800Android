@@ -4,4 +4,5 @@
     <string name="weight">體重(KG):</string>
     <string name="clear">清除</string>
     <string name="bmi">計算BMI</string>
+    <string name="hint">BMI值</string>
 </resources>

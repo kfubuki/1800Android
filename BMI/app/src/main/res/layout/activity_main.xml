@@ -36,7 +36,7 @@
             <EditText
                 android:id="@+id/editTextNumber"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_weight="0.6"
                 android:ems="10"
                 android:gravity="right"
@@ -62,7 +62,7 @@
             <EditText
                 android:id="@+id/editTextNumber2"
                 android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_weight="0.6"
                 android:ems="10"
                 android:gravity="right"
@@ -78,7 +78,7 @@
             android:paddingRight="20dp">
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/buttonBMI"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -86,7 +86,7 @@
                 android:text="@string/bmi" />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/buttonClear"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.3"
@@ -99,6 +99,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:gravity="center"
+            android:hint="@string/hint"
             android:text="TextView" />
     </LinearLayout>
 
